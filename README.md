@@ -3,8 +3,9 @@
 
 ### currently working on:
 
-* `Bloxxel64/SM64LinuxLauncher` Fork (maybe qt rewrite?)
-* `tek867/catch` practice game
+* `tek967/Sm64LinuxLauncher-qt` Qt Rewrite
+* `Bloxxel64/SM64LinuxLauncher` Fork
+* `tek967/catch` practice game
 
 ### Todo / Project Bucket List:
 
