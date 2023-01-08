@@ -4,6 +4,7 @@
 ### currently working on:
 
 * `ezntek/SM64LinuxLauncher-qt` Qt Rewrite
+* `ezntek/whow` Rewrite of DaringCuteSeal's program in python (with the creator)
 
 ### Todo / Project Bucket List:
 
