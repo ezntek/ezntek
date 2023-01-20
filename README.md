@@ -8,14 +8,10 @@
 
 ### Todo / Project Bucket List:
 
+* rewrite [AskMe](https://github.com/DaringCuteSeal/AskMe)
 * Weather App
 * Note Taking App
 * Gobang (Go board game, weiqi) / practice minigames
-* Static Site Generator (Markdown?)
-* File Compression Utility
-* Password Manager
 * Spam-In-A-Can-Man discord bot
-* Esolang
-* Message Of the Day/Quote of the Day app
-* WhatsApp Desktop Client
+* SSG
 * Lisp Parser / C compiler
