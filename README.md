@@ -3,15 +3,16 @@
 
 ### currently working on:
 
-* `ezntek/SM64LinuxLauncher-qt` Qt Rewrite
 * `ezntek/whow` Rewrite of DaringCuteSeal's program in python (with the creator)
+* blogging
 
 ### Todo / Project Bucket List:
 
-* rewrite [AskMe](https://github.com/DaringCuteSeal/AskMe)
-* Weather App
-* Note Taking App
-* Gobang (Go board game, weiqi) / practice minigames
+* make a bad clone of doodle jump in golang
+* make a darwin AND linux SM64 PC Port launcher in go (gotk4?)
+* **learn haskell**
+* rewrite [AskMe](https://github.com/DaringCuteSeal/AskMe) in haskell
+* overly complex brainf\*ck compiler/interpreter in go/python
+* implement DDCLL (dumbed-down c-like language) OR lua subset (maybe)
 * Spam-In-A-Can-Man discord bot
 * SSG
-* Lisp Parser / C compiler
