@@ -5,7 +5,7 @@
 
 ### currently working on:
 
-* `ezntek/whow` Rewrite of DaringCuteSeal's program in python (with the creator)
+* `ezntek/whow` rewrite python rewrite of DaringCuteSeal's whow in go (without pearl no more)
 * blogging
 
 ### Todo / Project Bucket List:
