@@ -5,12 +5,13 @@
 
 ### currently working on:
 
+* make the really bad doodle jump clone
 * `ezntek/whow` rewrite python rewrite of DaringCuteSeal's whow in go (without pearl no more)
+* try to organize the old python version of whow
 * blogging
 
 ### Todo / Project Bucket List:
 
-* make a bad clone of doodle jump in golang
 * make a darwin AND linux SM64 PC Port launcher in go (gotk4?)
 * **learn haskell**
 * rewrite [AskMe](https://github.com/DaringCuteSeal/AskMe) in haskell
