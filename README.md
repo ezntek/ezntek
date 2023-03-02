@@ -31,15 +31,15 @@ I can write shell scripts but I dont like writing them
 
 ### currently working on:
 
-* make the really bad doodle jump clone (python)
-* `ezntek/old_whow` clean up the shitty code (implementation is ass)
+* make the really bad doodle jump clone (Called tph/tuxplatformhop) in python (bc i dont wanna practice go with such a volatile project)
+* `ezntek/old_whow` clean up the shitty code (implementation is ass) and make them into python packages
 * `ezntek/whow` rethink my life choices about the go rewrite
 
 ### Todo / Project Bucket List:
 
 * make a darwin AND linux SM64 PC Port launcher in go (gotk4?)
 * **learn haskell**
-* rewrite [AskMe](https://github.com/DaringCuteSeal/AskMe) in haskell
+* rewrite [AskMe](https://github.com/DaringCuteSeal/AskMe) in haskell or anything else
 * overly complex brainf\*ck compiler/interpreter in go/python
 * implement DDCLL (dumbed-down c-like language) OR lua subset (maybe)
 * Spam-In-A-Can-Man discord bot
