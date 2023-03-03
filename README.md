@@ -17,17 +17,15 @@ Other Languages (skills became stale):
 * C++ (even more scared)
 
 Want to learn/improve on:
-* ***Haskell*** (functional code simp here)
+* Rust (for sure)
 * TypeScript
-* Scala & Clojure
-* Ruby
 
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: fully filled (prolly wont code at all)
+**what**: somewhat free
 
-**why**: let's say i f\*cked up some reports and assignments, and i have to redo them. i got extensions tho but only for 1 days
+**why**: thank god its friday and the weekend exists
 
 ### currently working on:
 
@@ -37,10 +35,11 @@ I can write shell scripts but I dont like writing them
 
 ### Todo / Project Bucket List:
 
-* make a darwin AND linux SM64 PC Port launcher in go (gotk4?)
-* **learn haskell**
-* rewrite [AskMe](https://github.com/DaringCuteSeal/AskMe) in haskell or anything else
-* overly complex brainf\*ck compiler/interpreter in go/python
+* rewrite [AskMe](https://github.com/daringcuteseal/AskMe) in rust for practice
+* write a google pixel 6a/GrapheneOS review on my blog
+* an app for the flowtime techinque (mobile? web?)
+* make a darwin AND linux SM64 PC Port launcher
+* overly complex brainf\*ck compiler/interpreter
 * implement DDCLL (dumbed-down c-like language) OR lua subset (maybe)
 * Spam-In-A-Can-Man discord bot
 * SSG
