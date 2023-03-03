@@ -17,7 +17,6 @@ Other Languages (skills became stale):
 * C++ (even more scared)
 
 Want to learn/improve on:
-* Rust (for sure)
 * TypeScript
 
 I can write shell scripts but I dont like writing them
@@ -35,7 +34,7 @@ I can write shell scripts but I dont like writing them
 
 ### Todo / Project Bucket List:
 
-* rewrite [AskMe](https://github.com/daringcuteseal/AskMe) in rust for practice
+* rewrite [AskMe](https://github.com/daringcuteseal/AskMe) in go to try to practice some patterns
 * write a google pixel 6a/GrapheneOS review on my blog
 * an app for the flowtime techinque (mobile? web?)
 * make a darwin AND linux SM64 PC Port launcher
