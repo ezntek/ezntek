@@ -29,12 +29,13 @@ I can write shell scripts but I dont like writing them
 ### currently working on:
 
 * make the really bad doodle jump clone (Called tph/tuxplatformhop) in python (bc i dont wanna practice go with such a volatile project)
-* `ezntek/old_whow` clean up the shitty code (implementation is ass) and make them into python packages
-* `ezntek/whow` rethink my life choices about the go rewrite
+* `ezntek/whow` re-implement close to everything
+
+`ezntek/go_whow` is on hold and `ezntek/SM64LinuxLauncher` is deprecated and a rewrite should come soon
 
 ### Todo / Project Bucket List:
 
-* rewrite [AskMe](https://github.com/daringcuteseal/AskMe) in go to try to practice some patterns
+* rewrite [AskMe](https://github.com/daringcuteseal/AskMe) to try to practice some patterns
 * write a google pixel 6a/GrapheneOS review on my blog
 * an app for the flowtime techinque (mobile? web?)
 * make a darwin AND linux SM64 PC Port launcher
