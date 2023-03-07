@@ -17,6 +17,7 @@ Other Languages (skills became stale):
 * C++ (even more scared)
 
 Want to learn/improve on:
+* Rust
 * TypeScript
 
 I can write shell scripts but I dont like writing them
