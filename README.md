@@ -25,9 +25,9 @@ Want to learn/improve on:
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: pretty busy
+**what**: mostly ok
 
-**why**: 
+**why**: school work is less and now im coding till about 11pm every day
 
 ### currently working on:
 
