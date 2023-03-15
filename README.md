@@ -32,7 +32,6 @@ I can write shell scripts but I dont like writing them
 ### currently working on:
 
 * `ezntek/smbuilder` SM64LinuxLauncher-qt but on steroids and written in rust
-* `ezntek/whow` re-implement close to everything
 * `ezntek/askme` askme
 
 `ezntek/go_whow` is on hold and `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite should come soon
