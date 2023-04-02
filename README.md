@@ -7,7 +7,7 @@ https://ezntek.github.io/about
 
 ### about me (code)
 Main Languages (active use):
-* Python (strictly typed not baby python dont laugh)
+* Python (yay)
 * Rust (practicing a lot)
 
 Other Languages (skills became stale):
@@ -25,16 +25,19 @@ Want to learn/improve on:
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: mostly ok
+**what**: 100% free
 
-**why**: school work is less and now im coding till about 11pm every day
+**why**: holiday for easter (apr 1 to 9th)
 
 ### currently working on:
 
-* `ezntek/smbuilder` SM64LinuxLauncher-qt but on steroids and written in rust
-* `ezntek/askme` askme
+* `ezntek/smbuilder` research rethink replan
 
-`ezntek/go_whow` is on hold and `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite should come soon
+### other shit
+
+* `ezntek/go_whow` is on hold and `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite should come soon
+* `ezntek/whow` is archived because its too much of a dumpster fire
+
 
 ### Todo / Project Bucket List:
 
