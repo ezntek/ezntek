@@ -25,18 +25,18 @@ Want to learn/improve on:
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: 100% free
+**what**: maybe can
 
-**why**: holiday for easter (apr 1 to 9th)
+**why**: final exam prep is starting n gotta revise
 
 ### currently working on:
 
-* `ezntek/smbuilder` research rethink replan
+* `ezntek/smbuilder` full speed development
 
 ### other shit
 
 * `ezntek/go_whow` is on hold and `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite should come soon
-* `ezntek/whow` is archived because its too much of a dumpster fire
+* `ezntek/whow` is archived because its too much of a dumpster fire (rewrite should be coming)
 
 
 ### Todo / Project Bucket List:
