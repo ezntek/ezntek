@@ -7,8 +7,8 @@ https://ezntek.github.io/about
 
 ### about me (code)
 Main Languages (active use):
-* Python (yay)
-* Rust (practicing a lot)
+* Rust (still practicing a lot)
+* Python (of course)
 
 Other Languages (skills became stale):
 * JavaScript/TypeScript (need more practice)
@@ -25,9 +25,9 @@ Want to learn/improve on:
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: maybe can
+**what**: cannot
 
-**why**: final exam prep is starting n gotta revise
+**why**: exams
 
 ### currently working on:
 
@@ -35,17 +35,16 @@ I can write shell scripts but I dont like writing them
 
 ### other shit
 
-* `ezntek/go_whow` is on hold and `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite should come soon
-* `ezntek/whow` is archived because its too much of a dumpster fire (rewrite should be coming)
-
+* `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite is being worked on
+* `ezntek/nautilus_vm` is a slow speed development side project (language vm, may reuse later)
+* `ezntek/whow` is archived because its too much of a dumpster fire (rewrite may happen)
 
 ### Todo / Project Bucket List:
 
 * an app for the flowtime techinque (mobile? web?)
-* make a darwin AND linux SM64 PC Port launcher
-* overkill branf\*ck interpreter/compiler (OKBFI/OKBFC)
+* make a darwin AND linux SM64 PC Port launcher (edit: `ezntek/smbuilder`)
 * design a register machine vm bytecode
-* implement a vm for the bytecode
+* implement a vm for the bytecode (going backwards, but `ezntek/nautilus_vm`)
 * make a language to compile to the bytecode
 * Spam-In-A-Can-Man discord bot
 * SSG
