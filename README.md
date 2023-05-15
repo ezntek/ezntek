@@ -5,6 +5,8 @@
 ### about me
 https://ezntek.github.io/about
 
+TL;DR: i use zentu®
+
 ### about me (code)
 Main Languages (active use):
 * Rust (still practicing a lot)
