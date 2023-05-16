@@ -1,6 +1,5 @@
 # `I actually touch Grass.`
 [![ezntek's stats](https://github-readme-stats.vercel.app/api?username=ezntek&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezntek&theme=radical&exclude_repo=simpyssg,pyplanetx,pytree,liner&exclude_langs=c,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 ### about me
 https://ezntek.github.io/about
@@ -27,7 +26,7 @@ Want to learn/improve on:
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: cannot
+**what**: cannot (maybe can a bit because i have breaks)
 
 **why**: exams
 
