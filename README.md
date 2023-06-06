@@ -4,7 +4,7 @@
 ### about me
 https://ezntek.github.io/about
 
-TL;DR: i use zentu®
+me is a nixos user
 
 ### about me (code)
 Main Languages (active use):
