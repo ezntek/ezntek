@@ -32,7 +32,8 @@ I can write shell scripts but I dont like writing them
 
 ### currently working on:
 
-* `ezntek/smbuilder` full speed development
+* `ezntek/smbuilder`
+* `DaringCuteseal/askme`
 
 ### other shit
 
@@ -42,8 +43,6 @@ I can write shell scripts but I dont like writing them
 
 ### Todo / Project Bucket List:
 
-* make a build system that revolves around python scripts
-* write a catppuccinifier (yes a rust one already exists but that depends on webkit-gtk and web apps suck)
 * make a darwin AND linux SM64 PC Port launcher (edit: `ezntek/smbuilder`)
 * design a register machine vm bytecode
 * implement a vm for the bytecode (going backwards, but `ezntek/nautilus_vm`)
