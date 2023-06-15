@@ -1,7 +1,7 @@
 # `I actually touch Grass.`
 [![ezntek's stats](https://github-readme-stats.vercel.app/api?username=ezntek&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ezntek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezntek&hide=html,c,cpp&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![ezntek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezntek&hide=html,c,c++,go&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### about me
 https://ezntek.github.io/about
