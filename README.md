@@ -5,7 +5,7 @@
 
 # notes
 1. i dont update this page very much
-2. pls dont look at my stats score (no time because i got school) (went from `A+` to `B-` over a week (??) )
+2. pls dont look at my stats score (no time because i got school) (went from `A+` to `B-` in a week (??) )
 
 ### about me
 https://ezntek.github.io/about
@@ -40,6 +40,8 @@ I can write shell scripts but I dont like writing them
 ### currently working on:
 
 * `ezntek/smbuilder`
+* `ezntek/smbuilder-cli`
+* `ezntek/n64romconvert` occasional fixes
 * `DaringCuteseal/askme`
 
 ### other shit
