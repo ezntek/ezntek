@@ -14,47 +14,44 @@ me is a nixos user
 
 ### about me (code)
 Main Languages (active use):
-* Rust (active)
-* Python (maybe stale??)
+* Rust
+* Python
+* C
 
 Other Languages (skills became stale):
 * JavaScript/TypeScript (need lots more practice)
 * Go (no projects to use it on)
-* C (too scared to touch now)
-* C++ (archnemises because i ❤️ rust)
 
 Want to learn/improve on:
 * TypeScript
-* Nix (want to write my own derivations for nixpkgs)
 * Zig
-* Go (skills became stale and no projects to use it on)
-
+* Go (became too stale)
 
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: very much can
+**what**: maybe can
 
-**why**: holidays
+**why**: school started
 
 ### currently working on:
 
-* `ezntek/smbuilder`
-* `ezntek/smbuilder-cli`
+* `ezntek/sortvisualizer` sorting algorithm visualizer
+* `ezntek/smbuilder` procrastination
 * `ezntek/n64romconvert` occasional fixes
-* `DaringCuteseal/askme`
+* `DaringCuteseal/askme` will rewrite soon
 
-### other shit
+### other stuff
 
+* `ezntek/cursython` is cool (please support)
 * `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite is being worked on
-* `ezntek/nautilus_vm` is a slow speed development side project (language vm, may reuse later)
 * `ezntek/whow` is archived because its too much of a dumpster fire (rewrite may happen)
 
 ### Todo / Project Bucket List:
 
 * make a darwin AND linux SM64 PC Port launcher (edit: `ezntek/smbuilder`)
 * design a register machine vm bytecode
-* implement a vm for the bytecode (going backwards, but `ezntek/nautilus_vm`)
+* implement a vm for the bytecode
 * make a language to compile to the bytecode
 * Spam-In-A-Can-Man discord bot
 * SSG
