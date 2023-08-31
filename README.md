@@ -10,7 +10,7 @@
 ### about me
 https://ezntek.github.io/about
 
-me is a nixos user
+I use OpenBSD + Artix
 
 ### about me (code)
 Main Languages (active use):
@@ -30,19 +30,21 @@ Want to learn/improve on:
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: maybe can
+**what**: depends on the phase of the moon (completely random)
 
-**why**: school started
+**why**: school (IGCSE add maths)
 
 ### currently working on:
 
+A secret programming language (meowscript?)
 * `ezntek/sortvisualizer` sorting algorithm visualizer
 * `ezntek/smbuilder` procrastination
 * `ezntek/n64romconvert` occasional fixes
-* `DaringCuteseal/askme` will rewrite soon
+* `DaringCuteseal/askme` will rewrite
 
 ### other stuff
 
+* `ezntek/quiz` forced to make
 * `ezntek/cursython` is cool (please support)
 * `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite is being worked on
 * `ezntek/whow` is archived because its too much of a dumpster fire (rewrite may happen)
