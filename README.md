@@ -8,7 +8,6 @@
 2. pls dont look at my stats score (no time because i got school) (went from `A+` to `B-` in a week (??) )
 
 ### about me
-https://ezntek.github.io/about
 
 I use Artix and maintain a bunch of gentoo stage4s and installs
 
