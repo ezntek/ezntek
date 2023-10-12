@@ -1,4 +1,4 @@
-# `I actually touch Grass.`
+# `I occasionally touch Grass.`
 [![ezntek's stats](https://github-readme-stats.vercel.app/api?username=ezntek&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ezntek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezntek&hide=html,c,cpp,shell&langs_count=3&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,10 +10,11 @@
 ### about me
 https://ezntek.github.io/about
 
-I use OpenBSD + Artix
+I use Artix and maintain a bunch of gentoo stage4s and installs
 
 ### about me (code)
 Main Languages (active use):
+* Zig!
 * Rust
 * Python
 * C
@@ -23,20 +24,21 @@ Other Languages (skills became stale):
 * Go (no projects to use it on)
 
 Want to learn/improve on:
+* Zig (practising)
 * TypeScript
-* Zig
 * Go (became too stale)
 
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: depends on the phase of the moon (completely random)
+**what**: probably can
 
-**why**: school (IGCSE add maths)
+**why**: holiday
 
 ### currently working on:
 
 A secret programming language (meowscript?)
+* `ezntek/beanmaths` its for school so
 * `ezntek/sortvisualizer` sorting algorithm visualizer
 * `ezntek/smbuilder` procrastination
 * `ezntek/n64romconvert` occasional fixes
