@@ -9,12 +9,13 @@
 
 ### about me
 
-I use Artix and maintain a bunch of gentoo stage4s and installs
+I use gentoo linux.
 
 ### about me (code)
 Main Languages (active use):
 * Rust
 * Zig
+* Java (see beanmaths)
 * Python
 * C
 
@@ -24,16 +25,17 @@ Other Languages (skills became stale):
 * Go (no projects to use it on)
 
 Want to learn/improve on:
-* Zig (practising)
+* Zig (practicing)
 * TypeScript
+* Java (have to)
 * Go (became too stale)
 
 I can write shell scripts but I dont like writing them
 
 ### coding availability status
-**what**: probably can
+**what**: gen Z would say "oh hell nah"
 
-**why**: holiday
+**why**: exams soon + beanmaths
 
 ### currently working on:
 
