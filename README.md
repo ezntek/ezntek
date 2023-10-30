@@ -1,7 +1,7 @@
 # `I occasionally touch Grass.`
 [![ezntek's stats](https://github-readme-stats.vercel.app/api?username=ezntek&count_private=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ezntek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezntek&hide=html,c,cpp,shell&langs_count=3&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![ezntek's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezntek&hide=html,c,cpp,shell&langs_count=3&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show_icons=true&exclude_repo=SM64LinuxLauncher)](https://github.com/anuraghazra/github-readme-stats)
 
 # notes
 1. i dont update this page very much
