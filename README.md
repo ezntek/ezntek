@@ -9,17 +9,18 @@
 
 ### about me
 
-I use gentoo linux.
+I use artix linux.
 
 ### about me (code)
 Main Languages (active use):
 * Rust
-* Zig
-* Java (see beanmaths)
+* C++
+* Python
 * Python
 * C
 
-Other Languages (skills became stale):
+Other Languages (skills are not fully developed/stale):
+* C++
 * C (Have to master libc)
 * JavaScript/TypeScript (need lots more practice)
 * Go (no projects to use it on)
@@ -39,7 +40,8 @@ I can write shell scripts but I dont like writing them
 
 ### currently working on:
 
-* `ezntek/beanmaths` its for school so
+* `ezntek/beanmaths` don't disappoint the people that were hyped.
+* `ezntek/beancode` must work on another cursed project that's in rust and that I can flex with
 * `ezntek/smbuilder` procrastination
 * `ezntek/beanforth` restart, rewrite, reimplement, whatever
 
