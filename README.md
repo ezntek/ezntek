@@ -54,7 +54,11 @@ I can write shell scripts but I dont like writing them
 
 ### Todo / Project Bucket List:
 
+* rewrite whow in plain-old C
+* figure out how to integrate raylib with Dear ImGUI/GTK for `ezntek/beanmaths`
 * refactor `ezntek/cursython` such that it can be used as a code generation backend
+* write a C code generation backend for beancode
 * create my own concatenative programming language with nice syntax
  * compiled (no vm if possible)
 * make a darwin AND linux SM64 PC Port launcher (edit: `ezntek/smbuilder`) with a nice GUI
+* Audio visualizer (with FFTs!)
