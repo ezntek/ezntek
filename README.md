@@ -16,7 +16,6 @@ Main Languages (active use):
 * Rust
 * C++
 * Python
-* Python
 * C
 
 Other Languages (skills are not fully developed/stale):
@@ -24,11 +23,11 @@ Other Languages (skills are not fully developed/stale):
 * C (Have to master libc)
 * JavaScript/TypeScript (need lots more practice)
 * Go (no projects to use it on)
+* Java (don't want to use it)
 
 Want to learn/improve on:
 * Zig (practicing)
 * TypeScript
-* Java (have to)
 * Go (became too stale)
 
 I can write shell scripts but I dont like writing them
@@ -36,7 +35,7 @@ I can write shell scripts but I dont like writing them
 ### coding availability status
 **what**: gen Z would say "oh hell nah"
 
-**why**: exams soon + beanmaths
+**why**: final exams
 
 ### currently working on:
 
