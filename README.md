@@ -32,14 +32,11 @@ Want to learn/improve on:
 
 I can write shell scripts but I dont like writing them
 
-### coding availability status
-**what**: gen Z would say "oh hell nah"
-
-**why**: final exams
-
 ### currently working on:
 
-* `ezntek/beanmaths` don't disappoint the people that were hyped.
+* `ministopwatch` (offline for now) minimal terminal stopwatch app for power users
+* `BeanwareHQ/beanlife` possible curses TUI?
+* `BeanwareHQ/beanmaths` don't disappoint the people that were hyped.
 * `ezntek/beancode` must work on another cursed project that's in rust and that I can flex with
 * `ezntek/smbuilder` procrastination
 * `ezntek/beanforth` restart, rewrite, reimplement, whatever
@@ -50,13 +47,15 @@ I can write shell scripts but I dont like writing them
 * `ezntek/cursython` is cool (please support)
 * `ezntek/SM64LinuxLauncher-qt` is deprecated and a rewrite is being worked on
 * `ezntek/whow` is archived because its too much of a dumpster fire (rewrite may happen)
+* half baked crate `ezntek/smbuilder`
 
 ### Todo / Project Bucket List:
 
-* rewrite whow in plain-old C
-* figure out how to integrate raylib with Dear ImGUI/GTK for `ezntek/beanmaths`
+* learn GTK
+* learn OpenGL/SDL
+* learn Vue.js (sigh)
 * refactor `ezntek/cursython` such that it can be used as a code generation backend
-* write a C code generation backend for beancode
+* implement a simple programming language that transpiles to C
 * create my own concatenative programming language with nice syntax
  * compiled (no vm if possible)
 * make a darwin AND linux SM64 PC Port launcher (edit: `ezntek/smbuilder`) with a nice GUI
