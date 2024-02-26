@@ -12,12 +12,14 @@ I use artix linux.
 ### about me (code)
 Main Languages (active use):
 * C
+* Odin
 * Rust
 * C++
 * Python
 
 Other Languages (skills are not fully developed/stale):
 * C++
+* Odin (new favourite language)
 * C (Have to master libc)
 * JavaScript/TypeScript (need lots more practice)
 * Go (no projects to use it on)
@@ -32,6 +34,7 @@ I can write shell scripts but I dont like writing them
 
 ### currently working on:
 
+* `ezntek/youareanidiot` need to continue trolling people
 * `ministopwatch` (offline for now) minimal terminal stopwatch app for power users
 * `BeanwareHQ/beanlife` (half baked) possible curses TUI?
 * `BeanwareHQ/beanmaths` (restarted) don't disappoint the people that were hyped.
