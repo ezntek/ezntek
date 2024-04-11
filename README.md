@@ -7,11 +7,12 @@
 
 ### about me
 
-I use artix linux.
+I use arch linux + OpenBSD.
 
 ### about me (code)
 Main Languages (active use):
 * C
+* Go
 * Odin
 * Rust
 * C++
@@ -28,15 +29,18 @@ Other Languages (skills are not fully developed/stale):
 Want to learn/improve on:
 * Zig
 * JS/TS
-* Go (became too stale)
 
 I can write shell scripts but I dont like writing them
 
-### currently working on:
+### currently working on / possibly done:
 
+this can be inaccurate, because i have so many side projects.
+
+* `ezntek/dotfiles` ricing + small scripts
+* `BeanwareHQ/beanbar` all the DWM bars suck
+* `ezntek/mathparser` math parser in C
 * `ezntek/youareanidiot` need to continue trolling people
-* `ministopwatch` (offline for now) minimal terminal stopwatch app for power users
-* `BeanwareHQ/beanlife` (half baked) possible curses TUI?
+* `BeanwareHQ/beanlife` (half baked) possible tb2 TUI?
 * `BeanwareHQ/beanmaths` (restarted) don't disappoint the people that were hyped.
 * `ezntek/smbuilder` (half baked) rewrite in C or add a GUI
 
@@ -49,15 +53,3 @@ nothing interesting...I always lose my motivation to finish projects so none for
 * half baked crate `ezntek/smbuilder`
 
 
-### Todo / Project Bucket List:
-
-* get motivation
-* learn GTK
-* learn OpenGL/SDL
-* learn Vue.js (sigh)
-* refactor `ezntek/cursython` such that it can be used as a code generation backend
-* implement a simple programming language that transpiles to C
-* create my own concatenative programming language with nice syntax
- * compiled (no vm if possible)
-* make a darwin AND linux SM64 PC Port launcher (edit: `ezntek/smbuilder`) with a nice GUI
-* Audio visualizer (with FFTs!)
