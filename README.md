@@ -7,21 +7,18 @@
 
 ### about me
 
-I use arch linux + OpenBSD.
+I use NixOS.
 
 ### about me (code)
 Main Languages (active use):
+* C++
 * C
 * Go
-* Odin
 * Rust
-* C++
 * Python
 
 Other Languages (skills are not fully developed/stale):
-* C++
-* Odin (new favourite language)
-* C (Have to master libc)
+* Odin
 * JavaScript/TypeScript (need lots more practice)
 * Go (no projects to use it on)
 * Java (don't want to use it)
