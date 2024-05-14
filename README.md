@@ -34,6 +34,7 @@ I can write shell scripts but I dont like writing them
 this can be inaccurate, because i have so many side projects.
 
 * `ezntek/dotfiles` ricing + small scripts
+* `BeanwareHQ/beanbattery` battery stats for linux
 * `BeanwareHQ/beanbar` all the DWM bars suck
 * `ezntek/mathparser` math parser in C
 * `ezntek/youareanidiot` need to continue trolling people
