@@ -11,11 +11,11 @@ I use NixOS.
 
 ### about me (code)
 Main Languages (active use):
-* C++
-* C
-* Go
 * Rust
+* C
 * Python
+* C++
+* Go
 
 Other Languages (skills are not fully developed/stale):
 * Odin
@@ -34,13 +34,14 @@ I can write shell scripts but I dont like writing them
 this can be inaccurate, because i have so many side projects.
 
 * `ezntek/dotfiles` ricing + small scripts
+* `ezntek/whowlang` a parser collection for an eventual whow rewrite in Rust
 * `BeanwareHQ/beanbattery` battery stats for linux
-* `BeanwareHQ/beanbar` all the DWM bars suck
-* `ezntek/mathparser` math parser in C
-* `ezntek/youareanidiot` need to continue trolling people
-* `BeanwareHQ/beanlife` (half baked) possible tb2 TUI?
-* `BeanwareHQ/beanmaths` (restarted) don't disappoint the people that were hyped.
-* `ezntek/smbuilder` (half baked) rewrite in C or add a GUI
+* `BeanwareHQ/beanbar` all the DWM bars suck (stale)
+* `ezntek/mathparser` math parser in C (stale)
+* `ezntek/youareanidiot` need to continue trolling people (stale)
+* `BeanwareHQ/beanlife` (half baked) possible tb2 TUI? (stale)
+* `BeanwareHQ/beanmaths` (restarted) don't disappoint the people that were hyped. (stale)
+* `ezntek/smbuilder` rewrite
 
 ### other stuff
 
