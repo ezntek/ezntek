@@ -7,7 +7,7 @@
 
 ### about me
 
-I use NixOS.
+I use Artix btw.
 
 ### about me (code)
 Main Languages (active use):
@@ -34,8 +34,9 @@ I can write shell scripts but I dont like writing them
 this can be inaccurate, because i have so many side projects.
 
 * `ezntek/dotfiles` ricing + small scripts
-* `ezntek/whowlang` a parser collection for an eventual whow rewrite in Rust
-* `BeanwareHQ/beanbattery` battery stats for linux
+* `ezntek/tpfanspeed` direct competitor to TPFanControl on Microsoft(R) Windows
+* `ezntek/whowlang` a parser (collection) for an eventual whow rewrite in Rust
+* `BeanwareHQ/beanbattery` battery stats for linux (stale)
 * `BeanwareHQ/beanbar` all the DWM bars suck (stale)
 * `ezntek/mathparser` math parser in C (stale)
 * `ezntek/youareanidiot` need to continue trolling people (stale)
@@ -49,6 +50,9 @@ nothing interesting...I always lose my motivation to finish projects so none for
 
 * `ezntek/quiz` forced to make
 * `ezntek/cursython` is cool (please support)
+* `ezntek/watchmymcserver` is almost done ? although mcrcon does exist
+* `ezntek/youareanidiot` you can piss ur friends off ig
+* `ezntek/n64romconvert` convert between N64 rom types
 * half baked crate `ezntek/smbuilder`
 
 
