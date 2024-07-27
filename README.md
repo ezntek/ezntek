@@ -14,6 +14,8 @@ Main Languages (active use):
 * Rust
 * C
 * Python
+* Vue.js
+* TypeScript
 * C++
 * Go
 
@@ -25,7 +27,6 @@ Other Languages (skills are not fully developed/stale):
 
 Want to learn/improve on:
 * Zig
-* JS/TS
 
 I can write shell scripts but I dont like writing them
 
@@ -49,6 +50,7 @@ this can be inaccurate, because i have so many side projects.
 nothing interesting...I always lose my motivation to finish projects so none for you to see unfortunately
 
 * `ezntek/quiz` forced to make
+* `ezntek/foodscroller` This thing won me 2nd place in a hackathon
 * `ezntek/cursython` is cool (please support)
 * `ezntek/watchmymcserver` is almost done ? although mcrcon does exist
 * `ezntek/youareanidiot` you can piss ur friends off ig
