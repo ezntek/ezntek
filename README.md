@@ -14,21 +14,23 @@ I use arch btw (also void. i like me some good void).
 ### about me (code)
 Main Languages (active use):
 * C
-* Rust
+* Zig
 * Python
-* Vue.js
-* TypeScript
-* C++
-* Go
+* Rust
+* Java (don't want to use it)
+
 
 Other Languages (skills are not fully developed/stale):
 * Odin
 * JavaScript/TypeScript (need lots more practice)
 * Go (no projects to use it on)
-* Java (don't want to use it)
+* Vue.js
+* C++
 
 Want to learn/improve on:
-* Zig
+* Odin
+* Java
+* C++
 
 I can write shell scripts but I dont like writing them
 
@@ -36,7 +38,7 @@ I can write shell scripts but I dont like writing them
 
 this can be inaccurate, because i have so many side projects. (new for march 2025! this list is inaccurate)
 
-* `ezntek/beancode` proof of concept igcse pseudocode interpreter (wip)
+* `ezntek/beancode` Small scripting language interpreter (`py` branch contains an IGCSE pseudocode intepreter)
 * `ezntek/dotfiles` ricing + small scripts
 * `ezntek/tpfanspeed` direct competitor to TPFanControl on Microsoft(R) Windows (stale)
 * `ezntek/whowlang` a parser (collection) for an eventual whow rewrite in Rust (stale)
