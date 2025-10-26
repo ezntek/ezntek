@@ -9,19 +9,21 @@
 
 ### about me
 
-I use arch btw (also void. i like me some good void).
+My name is Eason Qin. I have studied in Singapore since 2015, and am a resident here. I love programming a lot; if you are in my school or are in any of my classes, you will catch me slacking off and coding, because worksheets can be done after school, but urgent bug fixes or implementing cool ideas are more important to me :D
+
+I prefer the C programming language for anything and everything, but recently, I've been dabbling in more Python than I've ever wanted to, due to `ezntek/beancode`, a tiny, portable, but feature-rich IGCSE Pseudocode interpreter. I will be writing more C projects soon, and polishing my very own scripting language written in C.
 
 ### about me (code)
 Main Languages (active use):
 * C
-* Zig
 * Python
+* Zig
 * Rust
 * Java (don't want to use it)
 
-
 Other Languages (skills are not fully developed/stale):
 * Odin
+* D
 * JavaScript/TypeScript (need lots more practice)
 * Go (no projects to use it on)
 * Vue.js
@@ -29,35 +31,14 @@ Other Languages (skills are not fully developed/stale):
 
 Want to learn/improve on:
 * Odin
-* Java
+* D
 * C++
 
-I can write shell scripts but I dont like writing them
+### What can I do?
+* Compiler/Interpreter development and optimizations
+* Developing CLI tools for Linux (eventually GUIs)
+* Basic web development
+* Basic game development and graphics programming with raylib and C
+* Educating others about computer science (despite how I'm horrible at it)
 
-### currently working on / possibly done:
-
-this can be inaccurate, because i have so many side projects. (new for march 2025! this list is inaccurate)
-
-* `ezntek/beancode` Small scripting language interpreter (`py` branch contains an IGCSE pseudocode intepreter)
-* `ezntek/dotfiles` ricing + small scripts
-* `ezntek/tpfanspeed` direct competitor to TPFanControl on Microsoft(R) Windows (stale)
-* `ezntek/whowlang` a parser (collection) for an eventual whow rewrite in Rust (stale)
-* `BeanwareHQ/beanbattery` battery stats for linux (stale)
-* `BeanwareHQ/beanbar` all the DWM bars suck (stale)
-* `BeanwareHQ/beanlife` (half baked) possible tb2 TUI? (extremely stale)
-* `BeanwareHQ/beanmaths` (restarted) don't disappoint the people that were hyped. (extremely stale)
-* `ezntek/smbuilder` rewrite (very stale)
-
-### other stuff
-
-nothing interesting...I always lose my motivation to finish projects so none for you to see unfortunately
-
-* `ezntek/foodscroller` This thing won me 2nd place in a hackathon
-* `ezntek/cursython` is cool (please support)
-* `ezntek/quiz` forced to make
-* `ezntek/watchmymcserver` is almost done ? although mcrcon does exist
-* `ezntek/youareanidiot` you can piss ur friends off ig
-* `ezntek/n64romconvert` convert between N64 rom types
-* half baked crate `ezntek/smbuilder`
-
-
+I can also write shell scripts but I dont like writing them
