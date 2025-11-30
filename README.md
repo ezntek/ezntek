@@ -17,13 +17,13 @@ I prefer the C programming language for anything and everything, but recently, I
 Main Languages (active use):
 * C
 * Python
-* Zig
-* Rust
 * Java (don't want to use it)
 
 Other Languages (skills are not fully developed/stale):
 * Odin
 * D
+* Zig
+* Rust
 * JavaScript/TypeScript (need lots more practice)
 * Go (no projects to use it on)
 * Vue.js
@@ -33,6 +33,7 @@ Want to learn/improve on:
 * Odin
 * D
 * C++
+* Svelte
 
 ### What can I do?
 * Compiler/Interpreter development and optimizations
